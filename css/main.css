@@ -1,0 +1,46 @@
+/* general styles */
+
+/*html,*/
+@import url(<link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>);
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Poiret One', cursive;
+  background-color: white;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p{
+ font-family: 'Poiret One', cursive; 
+}
+
+p{
+  font-size: 1.3em;
+}
+
+/*portada */
+.portada{
+  padding: 3% 0;
+}
+
+.portada h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 11em;
+}
+
+/*envolturas*/
+/*.wrapper{
+  padding: 1px 1px;
+}*/
+
+
